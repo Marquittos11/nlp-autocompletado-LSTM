@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+
+# Carpetas de datos y modelos (evita subir archivos gigantes)
+data/
+models/
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
